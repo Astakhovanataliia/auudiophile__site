@@ -1,0 +1,22 @@
+<svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="8" height="12" fill="#1E1E1E"/>
+<g id="Desktop - Home" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="3950" transform="translate(-362 -1088)" fill="#FAFAFA"/>
+<g id="Group 16">
+<g id="Group 15" clip-path="url(#clip1_0_1)">
+<rect id="Mask" x="-197" y="-159" width="350" height="204" rx="8" fill="#F1F1F1"/>
+<g id="Group 3">
+<path id="Path 2" d="M1.3219 1L6.3219 6L1.3219 11" stroke="#D87D4A" stroke-width="2"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="3950" fill="white" transform="translate(-362 -1088)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="350" height="284" fill="white" transform="translate(-197 -239)"/>
+</clipPath>
+</defs>
+</svg>
